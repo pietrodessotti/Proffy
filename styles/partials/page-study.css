@@ -108,7 +108,7 @@
 
     width: calc(100% - 3.2rem);
     height: 2px;
-    background: red;
+    background: var(--color-primary-light);
     
     position: absolute;
     left: 1.6rem;
